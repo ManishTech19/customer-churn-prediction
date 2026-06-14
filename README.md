@@ -307,3 +307,7 @@ Built an end-to-end machine learning pipeline to predict telecom customer churn 
 - Applied SMOTE to address class imbalance
 - Performed feature engineering and hyperparameter tuning
 - Achieved ~86% accuracy using Random Forest Classifier
+
+## Project Deployment link
+https://customer-churn-prediction-nn4n5cker9nybldnj32fxs.streamlit.app/
+
